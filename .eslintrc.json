@@ -13,5 +13,7 @@
         "ecmaVersion": 12
     },
     "rules": {
+        "indent": "off",
+        "no-tabs": "off"
     }
 }
